@@ -152,3 +152,10 @@ form button:hover {
     color: #ff6600;
     font-weight: bold;
 }
+
+.alerta-section img {
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
