@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc> https://dolores281723.github.io/examen-practico-web/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc> https://dolores281723.github.io/examen-practico-web/pages/about.html</loc>
+        <lastmod>2025-10-02/lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc> https://dolores281723.github.io/examen-practico-web/pages/services.html</loc>
+        <lastmod>2025-10-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc> https://dolores281723.github.io/examen-practico-web/pages/contact.html</loc>
+        <lastmod>2025-10-02</lastmod>
+        <priority>0.7</priority>
+    </url>
+</urlset>
